@@ -1,0 +1,21 @@
+body {
+    background-color:indigo;
+    color:white;
+}
+a {
+    color:yellow;
+}
+
+.input {
+    border-radius: 0.5em;
+    border:1px solid lightblue;
+    background-color:darkblue;
+    color:white;
+    outline:lightblue;
+}
+
+.label {
+    display:inline-block;
+    font-weight:bold;
+    min-width:7em;
+}
